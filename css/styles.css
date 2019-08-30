@@ -1,0 +1,39 @@
+/* Whole Doc Styles*/
+
+html
+    {
+        background-color:lightgrey;
+        font-family: 'Roboto', sans-serif;
+    }
+
+/* Header Styles*/
+
+header
+    {
+        font-size: 50px;
+    }
+
+header img
+    {
+        max-height: 10%;
+    }
+
+/* Nav Styles */
+
+.nav ul 
+    {
+        background-color: gray;
+    }
+
+h3
+    {
+        font-weight: bold;
+    }
+
+/* Blog Post Styles */
+
+.blogposts p
+
+    {
+        text-indent: 20px;
+    }
