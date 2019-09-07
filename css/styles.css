@@ -20,10 +20,9 @@ header img
 
 /* Nav Styles */
 
-.nav ul 
+nav
     {
-        background-color: gray;
-        display: inline;
+        background-color: darkgrey;
     }
 
 h3
@@ -37,4 +36,10 @@ h3
 
     {
         text-indent: 20px;
+    }
+
+h3 
+
+    {
+        float: center;
     }
