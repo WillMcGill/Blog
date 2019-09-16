@@ -4,19 +4,22 @@ html
     {
         background-color:lightgrey;
         font-family: 'Roboto', sans-serif;
+        display: grid;
+        grid-template-rows: 15vh 10vh 75vh;
     }
 
 /* Header Styles*/
 
 header
     {
-        font-size: 50px;
+        display: grid;
+        font-size: 5vh;
+        height: 15vh;
+        grid-template-columns: 80vw 20vw;
+        padding: 0px;
     }
 
-header img
-    {
-        max-height: 10%;
-    }
+
 
 /* Nav Styles */
 
