@@ -1,31 +1,30 @@
 /* Whole Doc Styles*/
 
+/* Whole Doc Styles*/
+
 html
     {
         background-color:lightgrey;
         font-family: 'Roboto', sans-serif;
-        display: grid;
-        grid-template-rows: 15vh 10vh 75vh;
     }
 
 /* Header Styles*/
 
 header
     {
-        display: grid;
-        font-size: 5vh;
-        height: 15vh;
-        grid-template-columns: 80vw 20vw;
-        padding: 0px;
+        font-size: 50px;
     }
 
-
+header img
+    {
+        max-height: 10%;
+    }
 
 /* Nav Styles */
 
-nav
+.nav ul 
     {
-        background-color: darkgrey;
+        background-color: gray;
     }
 
 h3
@@ -39,10 +38,4 @@ h3
 
     {
         text-indent: 20px;
-    }
-
-h3 
-
-    {
-        float: center;
     }
